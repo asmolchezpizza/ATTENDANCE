@@ -5,6 +5,7 @@ import threading
 import TommysAPIKey
 apikey = TommysAPIKey.OPEN_AI_KEY
 
+
 # --- Functions ---
 
 def get_openai_answer(question):
